@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+.vscode/
+.env
+
+*.docx
+*.pdf
+*.zip
+
+.DS_Store
+Thumbs.db
